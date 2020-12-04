@@ -1,4 +1,4 @@
-package ru.mirea.exercise17_18;
+package laba17-18;
 
 import java.util.Scanner;
 
