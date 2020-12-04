@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.Scanner;
 
-public class Ex_2 {
+public class Near {
     public void check_2(){
     String text = "([a-f]+[A-F]+:){3}+([0-9]{2}+:){2}+[0-9]{2}";
     Scanner scanner = new Scanner(System.in);
